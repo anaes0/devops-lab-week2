@@ -22,3 +22,5 @@ chmod 600 1_1.txt
 cd ..
 rm -r fol_1/
 rm -r fol_2/
+
+echo Job completed > last-run.txt
