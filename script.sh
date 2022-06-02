@@ -12,3 +12,7 @@ cd fol_2
 touch 2_1.txt
 touch 2_2.txt
 touch 2_3.txt
+
+cd ..
+rm -r fol_1/
+rm -r fol_2/
